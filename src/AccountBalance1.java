@@ -7,6 +7,8 @@ public class AccountBalance1 {
 		current[2] = new Balance("Jack",32.12);
 		for(int i=0;i<3;i++) {
 			current[i].show();
+			
+			
 		}
 	}
 }
